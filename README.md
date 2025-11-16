@@ -1,18 +1,10 @@
 # 📊 **Data Analyst & Data Scientist Portfolio**
 
 Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos de **Análisis de Datos**, **Machine Learning**, **Business Intelligence** y **Data Engineering**, desarrollados con un enfoque claro en resolver problemas de negocio reales.
-
----
-
-## 🚀 **Sobre mí**
-Soy un profesional orientado a resultados con experiencia en:
-- Análisis de datos y generación de insights accionables  
-- Modelos predictivos y machine learning  
-- Diseño y automatización de pipelines de datos  
-- Business Intelligence (Power BI, SQL, Python)  
-- Optimización de procesos y toma de decisiones basada en datos  
-
 Actualmente perfecciono mis habilidades en Data Science, Business Intelligence y arquitecturas modernas de datos.
+
+![Static Badge](https://img.shields.io/badge/Linkedin-Link-blue?style=flat&logo=L&label=Rafael%20Arias&color=blue)
+
 
 ---
 
